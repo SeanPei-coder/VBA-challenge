@@ -1,3 +1,4 @@
+'please run the Macros in the order of: header(),Ticker(), yearly_change_and_percentchange(),vol_add(),and then challengs()
 Attribute VB_Name = "Module1"
 
 Sub yearly_change_and_percentchange()
